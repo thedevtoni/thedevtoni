@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thedevtoni
-- 👀 co-Found at @orquestadev
+- 👀 Found at @orquestadev
 - 📫 Feel free to reach me at anthony@orquesta.dev
 
 <!---
