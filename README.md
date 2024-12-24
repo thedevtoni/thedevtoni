@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thedevtoni
-- 👀 Found at @orquestadev
-- 📫 Feel free to reach me at anthony@orquesta.cloud
+- 👀 Found at @orqai
+- 📫 Feel free to reach me at anthony@orq.ai
 
 <!---
 thedevtoni/thedevtoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
