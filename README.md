@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thedevtoni
-- 👀 Found at @orqai
+- 👀 Co-founder and CPTO @orqai
 - 📫 Feel free to reach me at anthony@orq.ai
 
 <!---
